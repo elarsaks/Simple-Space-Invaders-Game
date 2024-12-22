@@ -2,6 +2,10 @@
 
 A minimalist Space Invaders clone built with HTML, CSS, and JavaScript.
 
+## Live Demo
+Try the game right in your browser:
+[**Simple Space Invaders - Live Demo**](https://elarsaks.github.io/Simple-Space-Invaders-Game/)
+
 ## How to Play
 1. **Download** or **clone** this repository.
 2. Open the `index.html` file in your browser.
